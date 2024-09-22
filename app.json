@@ -14,7 +14,7 @@
     "HANDLER": {
       "description": "Enter Prefix For Commands",
       "required": false,
-      "value": "."
+      "value": "-"
     },
     "SUDO": {
       "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
